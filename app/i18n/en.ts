@@ -43,9 +43,16 @@ const en = {
   },
   demoNavigator: {
     componentsTab: "Components",
+    testTab: "Test",
     debugTab: "Debug",
     communityTab: "Community",
     podcastListTab: "Podcast",
+  },
+  demoTestScreen: {
+    title: "This is a test",
+    tagLine: "Here's the tagline for this test",
+    textBlob: "This is where we do a text blob to test with",
+    joinUs: "Join us here on the app or on the website by joining Slack",
   },
   demoCommunityScreen: {
     title: "Connect with the community",
